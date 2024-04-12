@@ -7,8 +7,7 @@
 - ddev start
 - ddev composer install
 - ddev import-db -f db/dump.sql.gz
-- ddev launch /typo3
+- ddev launch 
 - login in with
     User: test
     Password: TileMaps2024!
-- clear the all caches
